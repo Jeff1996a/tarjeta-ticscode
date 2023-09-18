@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Jefferson Alfaro",
+    "profession": "Desarrollador de aplicaciones",
+    "description":"Te ayudo a implementar las mejores soluciones tecnológicas para tu negocio mediante el desarrollo de aplicaciones web o móviles",
+    "image":"profilepic.jpg",
+    "bio":"Soy un Desarrollador Full Stack que cuenta con la experiencia en el desarrollo de aplicaciones web para empresas u organizaciones utilizando diversas tecnologías y lenguajes de programación.",
+    "contactmessage":"No dudes en comunicarte a través de nuestros canales para más información.",
+    "email": "ticscode@gmail.com",
+    "phone": "0979112697",
+    "github":"https://github.com/Jeff1996a",
+    "project":"https://github.com/Jeff1996a",
+    "address":{
+      "street":"Comité del Pueblo",
+      "city":"Quito",
+      "state":"Ecuador",
+      "zip": ""
+    },
+    "website": "https://www.ticscode.com",
+    "resumedownload":"https://www.ticscode.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jeff1996a",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Leguajes de programación en las cuales soy hábil",
+    "education":[
+      {
+        "school":"Escuela Politécnica Nacional",
+        "degree":"Tecnologías de la información",
+        "graduated":"Marzo 2023",
+        "description":"Desarrollar habilidades en el ambito profesional para la gestión de herramientas IT."
+      },
+      {
+        "school":"Colegio Camilo Ponce Enríquez",
+        "degree":"Bachillerato en Informática",
+        "graduated":"Marzo 2014",
+        "description":"Desarrollar habilidades en el área informática para brindar mantenimiento y soporte."
+      }
+    ],
+    "work":[
+      {
+        "company":"Telemazonas",
+        "title":"Desarrollador Web Junior",
+        "years":"Abr 2022 - Oct 2022",
+        "description":"Desarrollador de un convertidor de playlist en Python y una aplicación de inventario en PHP para equipos de transmisión."
+      },
+      {
+        "company":"EMS Testing Cia Ltda",
+        "title":"Desarrollador Full Stack",
+        "years":"Julio 2022 - Agosto 2023",
+        "description":"Desarrollador de aplicación Full Stack para gestionar la información de los análisis realizados a un transformador de potencia mediante tecnologías como WCF y aplicaciones MVC"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+      {
+        "title":"Sistemas de gestión de operaciones",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":""
+      },
+      
+      {
+        "title":"Tarjetas de presentación",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":""
+      },
+      
+      {
+        "title":"Blog publicitarios",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":""
+      }    
+      
+      
+    ]
+  }
+}
