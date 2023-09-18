@@ -802,6 +802,10 @@ properly.
 	text-align: center !important;
 }
 
+.perfil{
+   width: 10%;
+}
+
 .particles-bg-canvas-self{
    background: #000;
  }
