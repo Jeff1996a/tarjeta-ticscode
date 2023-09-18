@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tarjeta-ticscode/static/css/main.31d6cfe0.css",
-    "main.js": "/tarjeta-ticscode/static/js/main.a54a68bc.js",
+    "main.js": "/tarjeta-ticscode/static/js/main.b1f0329d.js",
     "static/js/787.8dd2b5b2.chunk.js": "/tarjeta-ticscode/static/js/787.8dd2b5b2.chunk.js",
     "index.html": "/tarjeta-ticscode/index.html",
-    "main.a54a68bc.js.map": "/tarjeta-ticscode/static/js/main.a54a68bc.js.map",
+    "main.b1f0329d.js.map": "/tarjeta-ticscode/static/js/main.b1f0329d.js.map",
     "787.8dd2b5b2.chunk.js.map": "/tarjeta-ticscode/static/js/787.8dd2b5b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.a54a68bc.js"
+    "static/js/main.b1f0329d.js"
   ]
 }
