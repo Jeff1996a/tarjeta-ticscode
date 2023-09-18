@@ -24,7 +24,7 @@ class Header extends Component {
             </Fade>
             <Fade top>
               <div className="responsive-headline">
-                <Zmage src="./tarjeta-ticscode/perfil.jpg"  alt="" className="perfil"/>
+                <Zmage src="./timages/perfil.jpg"  alt="" className="perfil"/>
               </div>
             </Fade>
             
