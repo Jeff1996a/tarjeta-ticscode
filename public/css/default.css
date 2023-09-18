@@ -802,12 +802,6 @@ properly.
 	text-align: center !important;
 }
 
-.perfil{
-   border-radius: 50%;
-   width: 50%;
-   height: 200px;
-}
-
 .particles-bg-canvas-self{
    background: #000;
  }

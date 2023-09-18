@@ -22,6 +22,7 @@ class Header extends Component {
             <Fade bottom>
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
+            
             <Fade bottom>
               <div className="responsive-headline">
                 <Zmage src="./images/foto-perfil.jpg"  alt="" className="perfil"/>
