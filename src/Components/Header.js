@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
+import Zmage from "react-zmage";
 import Fade from "react-reveal";
 
 class Header extends Component {
@@ -20,11 +21,11 @@ class Header extends Component {
           <div className="banner-text">
             <Fade top>
               <h1 className="responsive-headline">{profession}</h1>
-              
+              AA
             </Fade>
             <Fade top>
               <div className="responsive-headline">
-                <img src="./images/perfil.jpg"  alt="" className="perfil"/>
+                <Zmage src="./images/perfil.jpg"  alt="" className="perfil"/>
               </div>
             </Fade>
             
