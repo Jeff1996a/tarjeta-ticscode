@@ -21,7 +21,6 @@ class Header extends Component {
           <div className="banner-text">
             <Fade top>
               <h1 className="responsive-headline">{profession}</h1>
-              AA
             </Fade>
             <Fade top>
               <div className="responsive-headline">
