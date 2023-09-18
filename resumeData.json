@@ -1,11 +1,11 @@
 {
   "main": {
-    "name":"Ing.Jefferson Alfaro",
+    "name":"Ing. Jefferson Alfaro",
     "profession": "Desarrollador de aplicaciones",
     "description":"Creamos las mejores soluciones tecnológicas para tu negocio mediante el desarrollo de aplicaciones web o móviles",
     "image":"profilepic.jpg",
-    "bio":"Soy un Desarrollador Full Stack que cuenta con la experiencia en el desarrollo de aplicaciones web para empresas u organizaciones utilizando diversas tecnologías y lenguajes de programación.",
-    "contactmessage":"No dudes en comunicarte a través de nuestros canales para más información.",
+    "bio":"Somos un grupo de Desarrolladores Full Stack que cuenta con la experiencia en la creación de aplicaciones web para empresas u organizaciones utilizando diversas tecnologías y lenguajes de programación.",
+    "contactmessage":"No dudes en comunicarte a través de nuestros canales para obtener más información.",
     "email": "ticscode@gmail.com",
     "phone": "0979112697",
     "github":"https://github.com/Jeff1996a",
