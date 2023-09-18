@@ -20,9 +20,9 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
-              <h1 className="responsive-headline">{name}</h1>
+              <h2 className="responsive-headline">{name}</h2>
             </Fade>
-            
+
             <Fade bottom>
               <div className="responsive-headline">
                 <Zmage src="./images/foto-perfil.jpg"  alt="" className="perfil"/>
