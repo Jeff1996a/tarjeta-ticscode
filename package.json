@@ -2,7 +2,7 @@
   "name": "reactniceresume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ticscode.com/tarjeta-ticscode",
+  "homepage": "https://jeff1996a.github.io/tarjeta-ticscode",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.11.4",
