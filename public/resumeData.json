@@ -92,7 +92,7 @@
     "projects": [
       
       {
-        "title":"Desarrollo de aplicaciones web",
+        "title":"Desarrollo de aplicaciones web y móviles",
         "category":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
         "url":""
@@ -110,8 +110,16 @@
         "category":"My Travel Blog for my post-university travels",
         "image":"06.jpg",
         "url":""
-      }    
+      }  
+         
+      ,
       
+      {
+        "title":"Mantenimiento de computadoras",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"07.jpg",
+        "url":""
+      }   
       
     ]
   }
