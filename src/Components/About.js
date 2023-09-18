@@ -23,7 +23,6 @@ class About extends Component {
             
             <div className="nine columns main-col">
               <h2>¿Quiénes somos?</h2>
-
               <p>{bio}</p>
               <div className="row">
                 <div className="columns contact-details">
