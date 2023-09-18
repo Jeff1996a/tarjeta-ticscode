@@ -36,7 +36,7 @@ class Contact extends Component {
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
-                <span>Contáctanos</span>
+                <span>¡Escríbenos!</span>
               </h1>
             </div>
 
