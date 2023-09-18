@@ -15,7 +15,7 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <ParticlesBg  color="#7fa961" num={60} type="cobweb" bg={true}/>
+        <ParticlesBg  color="#7fa961" num={100} type="cobweb" bg={true} className="particles-bg-canvas" />
 
         <div className="row banner">
           <div className="banner-text">
