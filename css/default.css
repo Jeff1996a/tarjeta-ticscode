@@ -808,6 +808,16 @@ properly.
    border: 1px solid #000;
 }
 
+@media screen and (min-width: 768px) {
+
+   .perfil{
+      width: 20%;
+      border-radius: 5%;
+      border: 1px solid #000;
+   }
+
+}
+
 .particles-bg-canvas-self{
    background: #000;
  }
