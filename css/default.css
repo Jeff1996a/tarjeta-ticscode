@@ -803,9 +803,8 @@ properly.
 }
 
 .perfil{
-   border-radius: 50%;
-   width: 50%;
-   height: 200px;
+   border-radius: 10%;
+   width: 25%;
 }
 
 .particles-bg-canvas-self{
