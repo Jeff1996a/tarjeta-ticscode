@@ -20,7 +20,7 @@ class Header extends Component {
         <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
-              <h2 className="responsive-headline">{name}</h2>
+              <h1 className="responsive-headline">{profession}</h1>
             </Fade>
 
             <Fade bottom>
@@ -30,7 +30,7 @@ class Header extends Component {
             </Fade>
             
             <Fade bottom>
-              <h2 className="responsive-headline">{profession}</h2>
+              <h2 className="responsive-headline">{name}</h2>
             </Fade>
             <Fade top duration={1200}>
               <h3>{description}.</h3>
