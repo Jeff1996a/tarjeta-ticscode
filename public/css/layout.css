@@ -70,7 +70,7 @@ header .banner-text h2 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #303030;
+   color: whitesmoke;
    margin: 0 auto;
    width: 70%;
 }
@@ -238,10 +238,11 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #000;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+
 }
 
 #resume a, #resume a:visited  { color: #0762f9; }
@@ -251,13 +252,15 @@ ul#nav li.current a { color: #fe6928; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   color: #7fa961;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #1abc9c;
    padding-bottom: 6px;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
+   color: whitesmoke;
 }
 
 #resume .header-col { padding-top: 9px; }
@@ -277,6 +280,7 @@ ul#nav li.current a { color: #fe6928; }
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
+
 }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
@@ -296,6 +300,7 @@ ul#nav li.current a { color: #fe6928; }
 .bars .skills {
   	margin-top: 36px;
    list-style: none;
+   color: white;
 }
 .bars li {
    position: relative;
@@ -303,10 +308,11 @@ ul#nav li.current a { color: #fe6928; }
   	background: #333;
   	height: 42px;
   	border-radius: 0px;
+
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
-   color: #313131;
+   color:   white;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -419,7 +425,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #000;
    padding-top: 90px;
    padding-bottom: 60px;
 }

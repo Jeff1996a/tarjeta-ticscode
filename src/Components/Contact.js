@@ -23,7 +23,7 @@ class Contact extends Component {
       e.preventDefault();
       emailjs.sendForm("ticscodeContacts","ticscodeForm", this.form.current, "LgKMPkQsYQLjgQR9e").
       then((result)=>{
-        alert('Message sent successfully...');
+        alert('¡Mensaje enviado exitosamente!');
         console.log(result.text);
       }, (error)=>{
         console.log(error.text);

@@ -22,7 +22,7 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-        <Fade left duration={1000} distance="40px">
+        <Fade left duration={1000} distance="20px">
           <div className="row">
             <div className="twelve columns collapsed">
               <h1>Algunos de mis servicios.</h1>
